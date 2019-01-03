@@ -9,6 +9,8 @@
 
 _build/
 _site/
+bin/
+obj/
 Properties/
 
 # Use git add -f to force override .sln when required. Not needed in most cases.
