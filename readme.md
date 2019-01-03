@@ -1,0 +1,1 @@
+Creation d'une appli CORE MVC from scratch et ajout de fonctionnalités au fur et à mesure
